@@ -1,0 +1,16 @@
+.calzados
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+
+.carrito
+{
+    margin-top: 80px;
+}
+
+.productosEnCarrito
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
